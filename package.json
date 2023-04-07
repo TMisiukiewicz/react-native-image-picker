@@ -60,5 +60,8 @@
     "android": {
       "javaPackageName": "com.imagepicker"
     }
+  },
+  "dependencies": {
+    "@expo/config-plugins": "^6.0.1"
   }
 }
